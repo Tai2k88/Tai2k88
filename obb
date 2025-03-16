@@ -1,0 +1,4 @@
+cd $HOME/AKMODPUBG
+chmod +x setup
+chmod +x nanamod96
+./setup
